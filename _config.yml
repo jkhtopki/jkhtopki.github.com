@@ -1,0 +1,5 @@
+safe: true
+source: https://github.com/jkhtopki/jkhtopki.github.com
+destination: www
+lsi: false
+pygments: true
