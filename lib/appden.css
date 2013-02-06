@@ -90,7 +90,7 @@ table {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: #000000;
+	color: #004;
 	text-decoration: none;
 }
 
@@ -172,16 +172,18 @@ h3 {
 
 /* @group Header */
 
-/*
+
 #header {
-	margin : 15px auto 25px;
+/*
+ 	margin : 15px auto 25px;
 	width: 960px;
 	height: 190px;
 	background-image: url(images/header.png);
+*/
 	position: relative;
 	overflow: hidden;
 }
-*/
+
 
 #header div, #header h1, #subscribe {
 	position: absolute;
