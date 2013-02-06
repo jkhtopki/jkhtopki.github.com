@@ -6,11 +6,11 @@ exclude:
     - README.md
     - Rakefile
 
-title:          МКП ЖКХ г.Топки
+title:          МКП "ЖКХ"
 url:            http://mkpjkh.github.com
 feed:           /atom.xml
 description:    "официальный сайт МКП ЖКХ г.Топки"
-comment:        официальный сайт МКП ЖКХ г.Топки
+comment:        официальный сайт МКП "ЖКХ" г.Топки
 
 author:
     name:       МКП ЖКХ г.Топки
