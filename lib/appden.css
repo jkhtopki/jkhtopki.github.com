@@ -187,7 +187,7 @@ h3 {
 	font-family: Monaco, "Lucida Console",  monospace;
 	font-size: 12px;
 	line-height: 16px;
-	color: #efefef;
+	color: #000;
 }
 
 #header div span {
@@ -257,12 +257,12 @@ h3 {
 }
 
 #nav li:hover a {
-	color: #71f2fe;
+	color: #00F;
 }
 
 #nav a.active, #nav a:active,
 #nav a:link:hover, #nav a:visited:hover {
-	color: #a7ff84 !important;
+	color: #00F !important;
 }
 
 /* @end */
