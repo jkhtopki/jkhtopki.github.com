@@ -11,5 +11,5 @@ h2. Контактная информация
 Юр. адрес: {{ site.author.address }}
 
 е-mail: {{ site.author.email }}
-т. {{  site.author.phone }}
+телефон: {{  site.author.phone }}
 
