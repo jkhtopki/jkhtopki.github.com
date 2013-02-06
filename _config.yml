@@ -31,12 +31,7 @@ nav:
       subnav:
         - name: email
           url:  mailto:mkpjkh-topki@mail.ru
-    
-footer:
-    - verb:     Thinking
-      action:   How do people keep up with blogging?
-
-      
+         
 copyright:
     - Создание сайта <a href="http://glf.narod.ru">Александр Шелеметьев</a>
     - "&copy; Copyright 2013, Александр Шелеметьев. All Rights Reserved."
