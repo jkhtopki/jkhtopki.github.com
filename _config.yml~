@@ -6,34 +6,27 @@ exclude:
     - README.md
     - Rakefile
 
-title:          AppDen
-url:            http://appden.com
+title:          МКП ЖКХ г.Топки
+url:            http://mkpjkh.github.com
 feed:           /atom.xml
-description:    "Advanced JavaScript techniques, tips on avoiding those nasty CSS bugs, and musings on technological progress."
-comment:        Isn't it ironic there are no apps?
+description:    "официальный сайт МКП ЖКХ г.Топки"
+comment:        
 
 author:
-    name:       Scott Kyle
+    name:       Александр Шелеметьев
     email:      scott@appden.com
-    twitter:    appden
     
 about: >
-    I'm Scott Kyle, a <a href="http://mootools.net">MooTools</a> developer
-    and Apple addict. You can follow me on <a href="http://twitter.com/appden">Twitter</a>,
-    fork me on <a href="http://github.com/appden">GitHub</a>, and check out some of my work
-    on my <a href="/portfolio/">portfolio</a>.
+    а.
     
-disqus:
-    id:         appden
-
 nav:
-    - name:     Blog
+    - name:     Главная
       url:      /
     
-    - name:     Portfolio
+    - name:     Тарифы
       url:      /portfolio/
     
-    - name:     About
+    - name:     Контакты
       url:      /about/
       subnav:
         - name: Contact
@@ -44,12 +37,10 @@ footer:
     - verb:     Thinking
       action:   How do people keep up with blogging?
 
-    - verb:     Listening
-      action:   Sexy Bitch Radio on Pandora
       
 copyright:
-    - Design by <a href="http://ipsleung.com">Iris Leung</a>
-    - "&copy; Copyright 2010, AppDen. All Rights Reserved."
+    - Создание сайта <a href="http://glf.narod.ru">Александр Шелеметьев</a>
+    - "&copy; Copyright 2013, Александр Шелеметьев. All Rights Reserved."
       
 css:
     - /lib/appden.css
