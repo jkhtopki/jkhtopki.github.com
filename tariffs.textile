@@ -1,0 +1,23 @@
+---
+layout:         default
+sidebar:        false
+permalink:      /tariffs/
+title:          Тарифы
+description:    Тарифы на услуги
+
+heading:        Тарифы на услуги
+---
+
+h2. {{ page.heading }}
+
+"Постановление":site РЭК КО.
+
+"Загрузить тарифы":download с сайта РЭК КО.
+
+
+
+
+[site]http://www.recko.ru/?p=documents&t=postanovlen&id_doc=1366
+[download]http://www.recko.ru/files/20130103160717_%E2%84%96572-12%20prilojeniya%201,2.xls
+
+
