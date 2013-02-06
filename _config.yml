@@ -12,6 +12,9 @@ feed:           /atom.xml
 description:    "официальный сайт МКП ЖКХ г.Топки"
 comment:        официальный сайт МКП ЖКХ г.Топки
 
+author:
+    name:       МКП ЖКХ
+
 contact:
     name:       МКП "ЖКХ"
     address:	652300, РФ, Кемеровская обл., г. Топки, ул. Горная, д.17
@@ -19,8 +22,6 @@ contact:
     email:      mkpjkh-topki@mail.ru
     phone: 	8 (384-54) 4-80-14
 
-contact:
-    name:       МКП "ЖКХ"
     
 about: >
     т. 8 (384-54) 4-80-14
