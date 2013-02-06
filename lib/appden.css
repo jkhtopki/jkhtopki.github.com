@@ -174,12 +174,12 @@ h3 {
 
 
 #header {
-/*
+
  	margin : 15px auto 25px;
 	width: 960px;
 	height: 190px;
 	background-image: url(images/header.png);
-*/
+
 	position: relative;
 	overflow: hidden;
 }
