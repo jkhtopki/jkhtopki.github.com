@@ -1,1 +1,7 @@
+auto: false
+server: true
+safe: true
 lsi: false
+permalink: /docs/:categories/:title
+pygments: true
+gauges_id: 503c5af6613f5d0f19000027
