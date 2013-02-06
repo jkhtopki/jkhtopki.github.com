@@ -20,13 +20,13 @@
 	<div class="entry-footer">
 		<a class="entry-comments" href="{{ post.url }}#disqus_thread">0</a>
 		<p>
-			Опубликовано {{ site.author.name }} {{ post.date | date:'%A, %B %d, %Y' | replace:' 0',' ' }}
+			Posted by {{ site.author.name }} on {{ post.date | date:'%A, %B %d, %Y' | replace:' 0',' ' }}
 		</p>
 		<p>
-			Категории
+			Filed in
 			{{ post.categories | array_to_sentence_string | capitalize }}
 			{% unless post.tags == empty %}
-				и метки
+				and tagged
 				{{ post.tags | array_to_sentence_string }}
 			{% endunless %}
 		</p>
