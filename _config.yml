@@ -1,5 +1,5 @@
 safe: true
 source: .
-destination: ./_site
+destination: .
 lsi: false
 pygments: true
