@@ -8,7 +8,7 @@ h2. Контактная информация
 
 {{ site.author.name }}
 
-Юр. адрес: 
+Юр. адрес: {{ site.author.address }}
 
 е-mail: {{ site.author.email }}
 т. {{  site.author.phone }}
