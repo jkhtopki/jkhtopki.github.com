@@ -6,11 +6,11 @@ title:      Контакты
 
 h2. Контактная информация
 
-{{ site.company.name }}
+{{ site.author.name }}
 
-Юр. адрес: {{ site.company.address }}
-{{ site.company.requisites }}
+Юр. адрес: {{ site.author.address }}
+{{ site.author.requisites }}
 
-е-mail: {{ site.company.email }}
-т. {{  site.company.phone }}
+е-mail: {{ site.author.email }}
+т. {{  site.author.phone }}
 
