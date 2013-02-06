@@ -4,7 +4,6 @@ paginate:       5
 
 exclude:
     - README.md
-    - Rakefile
 
 title:          МКП "ЖКХ"
 url:            http://mkpjkh.github.com
@@ -13,7 +12,7 @@ description:    "официальный сайт МКП ЖКХ г.Топки"
 comment:        официальный сайт МКП ЖКХ г.Топки
 
 author:
-    name:       МКП "ЖКХ"
+    name:       МКП ЖКХ
 
 contact:
     name:       МКП "ЖКХ"
