@@ -3,11 +3,10 @@ layout: page
 title:  Wrong Turn
 ---
 
-h2. Wrong Turn
+h2. Какая-то ошибка
 
-Oops, you must have taken a wrong turn somewhere because this page...
+Этой странички не существует.
 
-h3=. DOES NOT EXIST!
+h3=. Запрошенной странички не существет!
 
-So please find one that does.  Thank you.
 
