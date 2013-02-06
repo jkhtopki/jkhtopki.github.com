@@ -6,15 +6,17 @@ exclude:
     - README.md
     - Rakefile
 
-title:          МКП ЖКХ г.Топки
+title:          МКП "ЖКХ"
 url:            http://mkpjkh.github.com
 feed:           /atom.xml
 description:    "официальный сайт МКП ЖКХ г.Топки"
 comment:        официальный сайт МКП ЖКХ г.Топки
 
-author:
-    name:       МКП ЖКХ г.Топки
+contact:
+    name:       МКП "ЖКХ"
+    address:	652300, РФ, Кемеровская обл., г. Топки, ул. Горная, д.17
     email:      mkpjkh-topki@mail.ru
+    phone: 	8 (384-54) 4-80-14
     
 about: >
     т. 8 (384-54) 4-80-14
@@ -31,14 +33,9 @@ nav:
       subnav:
         - name: email
           url:  mailto:mkpjkh-topki@mail.ru
-    
-footer:
-    - verb:     Thinking
-      action:   How do people keep up with blogging?
-
-      
+         
 copyright:
-    - Создание сайта <a href="http://glf.narod.ru">Александр Шелеметьев</a>
+    - Создание сайта <a href="http://glaf.narod.ru">Александр Шелеметьев</a>
     - "&copy; Copyright 2013, Александр Шелеметьев. All Rights Reserved."
       
 css:
