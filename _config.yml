@@ -28,9 +28,6 @@ nav:
     
     - name:     Контакты
       url:      /about/
-      subnav:
-        - name: email
-          url:  mailto:mkpjkh-topki@mail.ru
     
 footer:
     - verb:     Thinking
