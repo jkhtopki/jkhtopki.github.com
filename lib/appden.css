@@ -172,6 +172,7 @@ h3 {
 
 /* @group Header */
 
+/*
 #header {
 	margin : 15px auto 25px;
 	width: 960px;
@@ -180,8 +181,9 @@ h3 {
 	position: relative;
 	overflow: hidden;
 }
+*/
 
-#header div, #header h1 a, #subscribe {
+#header div, #header h1, #subscribe {
 	position: absolute;
 }
 
