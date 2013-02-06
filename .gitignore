@@ -1,4 +1,1 @@
-_site/
-*.swp
-pkg/
-test/
+_site
