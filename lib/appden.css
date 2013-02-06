@@ -89,16 +89,20 @@ table {
 	border-spacing: 0;
 }
 
-a, h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
 	color: #000000;
 	text-decoration: none;
 }
 
-/*
+a {
+	color: #007;
+	text-decoration: none;
+}
+
 a:hover {
 	text-decoration: underline;
 }
-*/
+
 
 h4, h5 {
 	font-weight: bold;
