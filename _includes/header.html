@@ -11,16 +11,13 @@
     <nav class="grid6">
       <ul>
         <li {% if page.overview %}class="current"{% endif %}>
-          <a href="{{ site.url }}/">Главная</a>
+          <a href="{{ site.url }}/">Overview</a>
         </li>
         <li {% unless page.overview %}class="current"{% endunless %}>
-          <a href="{{ site.url }}/doc">Документы</a>
+          <a href="{{ site.url }}/docs">Documentation</a>
         </li>
-        <li {% unless page.overview %}class="current"{% endunless %}>
-          <a href="{{ site.url }}/contacts">Контакты</a>
-        </li>
-        <li {% unless page.overview %}class="current"{% endunless %}>
-          <a href="{{ site.url }}/tariffs">Тарифы</a>
+        <li class="">
+          <a href="https://github.com/mojombo/jekyll">View on GitHub</a>
         </li>
       </ul>
     </nav>
