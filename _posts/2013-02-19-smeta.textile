@@ -12,5 +12,5 @@ category: тарифы
 
 
 
-[ovd]/ovd.doc
-[smety]/smeta.xls
+[ovd]/doc/ovd.doc
+[smety]/doc/smeta.xls

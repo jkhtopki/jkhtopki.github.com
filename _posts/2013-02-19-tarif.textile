@@ -11,4 +11,4 @@ category: тарифы
 
 
 
-[tariffs]/tariffs.doc
+[tariffs]/doc/tariffs.doc
