@@ -16,8 +16,12 @@ h2. {{ page.heading }}
 
 "Загрузить тарифы":download с сайта РЭК КО.
 
+"Загрузить тарифы":tariffs с сайта МКП ЖКХ.
 
 
+
+
+[tariffs]/doc/tariffs.doc
 
 [site]http://www.recko.ru/?p=documents&t=postanovlen&id_doc=1366
 
