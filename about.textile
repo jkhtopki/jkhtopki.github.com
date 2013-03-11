@@ -1,0 +1,16 @@
+--- 
+layout:     page
+permalink:  /about/
+title:      Контакты
+---
+
+h2. Контактная информация
+
+{{ site.author.name }}
+
+Юр. адрес: {{ site.author.address }}
+{{ site.author.requisites }}
+
+е-mail: {{ site.author.email }}
+телефон: {{  site.author.phone }}
+

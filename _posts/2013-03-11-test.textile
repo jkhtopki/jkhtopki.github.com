@@ -1,0 +1,25 @@
+﻿--- 
+layout:   post
+title:    Раскрытие информации
+category: тарифы
+---
+
+"заявка на подключение к системе ХВС":zayavka
+"Основные виды деятельности":osnvd
+"Перечень и формы документов к заявке":perech
+"Порядок действий заявителя и МКП по ВО":poryadokvo
+"Порядок действий заявителя и МКП по ХВС":poryadokhvs
+"сметы расходов МКП ЖКХ  на ТЭ, ВС, ВО  2013 год":smety
+"ТАРИФЫ 2013":tarify
+"Форма заявки на подключение к сети водоотведения":formaz
+
+
+[zayavka]/doc/zayavka.doc
+[osnvd]/doc/osnvd.doc
+[perech]/doc/perech.docx
+[poryadokvo]/doc/poryadokvo.docx
+[poryadokhvs]/doc/poryadokhvs.doc
+[smety]/doc/smety.xls
+[tarify]/doc/tarify.doc
+[formaz]/doc/formaz.docx
+
